@@ -36,7 +36,7 @@
     <properties>
         <avro.version>1.8.1</avro.version>
         <kafka.version>2.0.1</kafka.version>
-        <h2.version>1.4.187</h2.version>
+        <h2.version>2.0.206</h2.version>
         <tec.version>0.7</tec.version>
         <confluent.version>5.0.3</confluent.version>
     </properties>
